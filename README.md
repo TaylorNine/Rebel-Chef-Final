@@ -23,4 +23,4 @@
 
 
 
-*Please credit me if you my code contained in this repo, if possible send along your work so I can check it out and pass it along! __Copyright 2018 [Taylor Fedt](http://www.taylorfedt.com).*__
+*Please credit me if you my code contained in this repo, if possible send along your work so I can check it out and pass it along! Copyright 2018 [Taylor Fedt](http://www.taylorfedt.com).*
