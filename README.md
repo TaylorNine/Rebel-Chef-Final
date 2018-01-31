@@ -5,11 +5,12 @@
   1. Removed Bootstrap
   2. The SASS/CSS Framework is now custom
   3. Now uses Express.js and Node
-  4. All other dependencies in the `package.json` file.
+  4. All other dependencies in the `package.json` file for now
   
 *Special thanks to the opensource community, y'all are great :heart:*
 
 ## Task List
+- [ ] List/link to all authors of dependencies used in this project
 - [ ] Create Express.js app skeleton
 - [ ] Configure GRUNT tasks
 - [ ] Create PUG mixins
