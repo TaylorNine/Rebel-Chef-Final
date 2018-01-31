@@ -23,4 +23,4 @@
 
 
 
-*Please note: With the exception of dependencies and opensource works by other authors (please check their licenses for more information) the rest of this work is Copyright 2018 Taylor Fedt. Not available for use at all without my express, written permission.*
+*Please credit me if you my code contained in this repo, if possible send along your work so I can check it out and pass it along! __Copyright 2018 [Taylor Fedt](http://www.taylorfedt.com).*__
